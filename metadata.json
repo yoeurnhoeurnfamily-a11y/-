@@ -1,0 +1,6 @@
+{
+  "name": "គ្រូបង្រៀនកិច្ចព្រមព្រៀងចុងកោះជ្រូក",
+  "description": "An advanced lesson plan generator and editor designed for Cambodian teachers, featuring AI-powered content generation based on pedagogical standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
